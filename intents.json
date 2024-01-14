@@ -1,0 +1,35 @@
+{"intents": [
+    {"tag": "greetings",
+    "patterns": ["Hello", "Hey", "hi", "good day", "greetings", "what's up?", "how are you?"],
+    "responses": ["Hello!", "Hey!", "Hi!", "How may I help you?", "What can I do for you?"]
+    },
+    {"tag": "goodbye",
+    "patterns":["cya", "See you later", "Thanks", "I'am leaving", "bye", "have a good day"],
+    "responses": ["Goodbye!", "See you later.!!"]
+    },
+    {"tag": "age",
+    "patterns":["how old", "how old is pratik", "what is your age", "how old are you", "age?"],
+    "responses": ["My boss pratik is 19 years old", "19 Years.!!"]
+    },
+    {"tag": "name",
+    "patterns":["what is your name?", "What should i call you?", "who are you?", "name"],
+    "responses": ["You can call me jax.!!", "I'm Jax, Assistant to Pratik.!!!"]
+    },
+    {"tag": "shop",
+    "patterns":["I'd like to buy something", "What are you selling?", "How to study python", "I want to buy a course"],
+    "responses": ["We have an exclusive course taught by Pratik", "You can learn Python with Pratik", "Pratik is selling his Python course"]
+    },
+    {"tag": "hours",
+    "patterns":["how long is your course?", "when is the course open?", "I am interested"],
+    "responses": ["The course is 20 hours long", "The course begins immediately after enrolling and it is 20 hours long"]
+    },
+    {"tag": "job",
+    "patterns":["What do you do?", "What is your job?", "What services do you provide?", "services"],
+    "responses": ["I help pratik by assisting him in work", "we sell online course", "online course is what we sell"]
+    },
+    {"tag": "random",
+    "patterns":["hacisdhih1729", "e82619632", "hashohaukhaso sahhdohas", "jhsaoihodash"],
+    "responses": ["I am sorry I cannot understand what you are trying to say", "pardon me could you type that clearer", "I am not capable of understanding that"]
+    }
+    ] 
+}
